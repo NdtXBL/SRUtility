@@ -1,7 +1,7 @@
 # SRUtility
 SRUtility is a tool designed to assist in speedrun verification and preservation. The main focus of this project is to streamline the retiming process as well as storing runs or categories on your computer that may get deleted from the leaderboards.
 
-Currently the program is in alpha stages right now so it is heavy WIP. There will be a lot of bugs and I am aware of a decent amount of them and will get to it.
+Currently the program is in alpha stages right now so it is heavy WIP. There will be a lot of bugs and I am aware of a decent amount of them and will get to it. Pretty much just a preview of what is to come soon.
 
 Some features SRUtility has to offer is:
 - Library: store speedruns on your computer including the game and category info
