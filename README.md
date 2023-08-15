@@ -1,6 +1,8 @@
 # SRUtility
 SRUtility is a tool designed to assist in speedrun verification and preservation. The main focus of this project is to streamline the retiming process as well as storing runs or categories on your computer that may get deleted from the leaderboards.
 
+Currently the program is in alpha stages right now so it is heavy WIP. There will be a lot of bugs and I am aware of a decent amount of them and will get to it.
+
 Some features SRUtility has to offer is:
 - Library: store speedruns on your computer including the game and category info
 - Splits Tool: modify, create, or export splits, even allowing you to import splits from Splits.IO or your hard drive
